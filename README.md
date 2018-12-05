@@ -1,0 +1,2 @@
+# inventory.github.io
+myinventory
